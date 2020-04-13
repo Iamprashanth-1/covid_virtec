@@ -1,9 +1,4 @@
-##################################################################################
-# Author: Atlas Khan (ak4046@cumc.columbia.edu)
-# Created Time: 2017-05-31
-# Wang genomics lab http://wglab.org/
-# Description: python script for virus detection from human RNA-seq samples
-##################################################################################
+
 
 #!/usr/bin/env python
 
@@ -18,11 +13,7 @@ prog="VirTect.py"
 
 
 version = """%prog
-Copyright (C) 2017 Wang Genomic Lab
-VerTect is free for non-commercial use without warranty.
-Please contact the authors for commercial use.
-Written by Atlas Khan, ak4046@cumc.columbia.edu and atlas.akhan@gmail.com.
-Revised by Qian Liu for the maintenance. 
+
 ============================================================================
 """
 
