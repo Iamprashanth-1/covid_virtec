@@ -141,21 +141,4 @@ After virus detection from the samples, we may need to know that which gene is e
 Still we are working on it to provide annotations for each of the virus in our virus database.
 
 
-## License Agreement
 
-By using the software, you acknowledge that you agree to the terms below:
-
-For academic and non-profit use, you fell free to fork, download, modify, distribute and use the software without restriction.
- 
- ## Contact
-Atlas Khan (ak4046@cumc.columbia.edu)
-
-Kai Wang (kaichop@gmail.com)
-
-## Reference
-
-Khan A, Liu Q, Chen X, Stucky A, Parish P. Sedghizadeh, Adelpour D, Zhang X, Wang K, Zhong JF, **Detection of human papillomavirus in cases of head and neck squamous cell carcinoma by RNA-seq and VirTect**, Mol Oncol. 2018 Dec 30. doi: 10.1002/1878-0261.12435. 
-
-
-## More information
-Wang Genomics Lab Homepage (http://wglab.org/)
